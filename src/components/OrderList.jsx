@@ -22,7 +22,6 @@ const classes = stylesListToClassNames({
         margin: "30px 0",
     },
     orderRow: {
-        // width: 500,
         padding: "15px 7px",
         display: "flex",
         flexDirection: "column",

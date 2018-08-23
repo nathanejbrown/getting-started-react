@@ -46,7 +46,6 @@ const classes = stylesListToClassNames({
         display: "flex",
         flexDirection: "column",
         alignItems: "center"
-        // overflow: "scroll"
     }
 });
 

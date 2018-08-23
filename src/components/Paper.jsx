@@ -17,8 +17,7 @@ const classes = stylesListToClassNames({
     },
 });
 
-export default ({children, size}) => {
-    // const fixedSize = size || "auto";
+export default ({children}) => {
     const paperWithSize = css(classes.paper);
 
     return <div className={paperWithSize}>{children}</div>;

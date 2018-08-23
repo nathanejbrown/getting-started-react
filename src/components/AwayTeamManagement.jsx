@@ -8,10 +8,6 @@ import {stylesListToClassNames} from "../lib/Utils";
 
 const classes = stylesListToClassNames({
     header: {textAlign: "center"},
-    // section: {display: "flex"},
-    // avatarPanel: {
-    //     padding: "20px 30px 20px",
-    // },
     headerText: {
         fontSize: 20,
         padding: 10,
